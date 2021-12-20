@@ -42,6 +42,21 @@ Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design S
 Transport Simulations. Nanotechnology MASc Seminar delivered at the University of Waterloo, June 2021.
 
 
-## Teaching
+## Teaching:
 
-## Selected Awards
+Teaching Assistant - Linear Circuits, Winter 2021, University of Waterloo
+
+Teaching Assistant - Nanoelectronics, Fall 2020, University of Waterloo
+
+Teaching Assistant - Electronic Circuits, Spring 2020, University of Waterloo
+
+Teaching Assistant - Linear Circuits, Winter 2020, University of Waterloo
+
+
+## Selected Research Funding:
+
+Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
+
+NSERC USRA (Co-op research funding for eight months)
+
+National Institute of Materials Science (Japanese) Internship Program Fellowship
