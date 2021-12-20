@@ -1,8 +1,8 @@
 ---
-title: "Habits"
+title: "Manasa Kaniselvan"
 output:
   html_document:
-    theme: united
+    theme: cosmo
     highlight: tango
 ---
 
