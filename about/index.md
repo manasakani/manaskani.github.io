@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 # About
-<img align="right" margin="40" src="/media/me.png" height="auto" width="400" style="border-radius:50%">
+<img align="right" src="/media/me.png" height="auto" width="400" style="border-radius:50%">
 
 
 Add text here
