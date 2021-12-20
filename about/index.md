@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-## About
+# About
 <img align="right" src="/media/me.png" height="auto" width="400" style="border-radius:50%">
 
 
