@@ -5,7 +5,7 @@ title: About
 # About
 <img align="right" src="/media/me.png" height="auto" width="300" style="border-radius:50%">
 
-I grew up in Toronto, Canada, and did my Bachelor's degree in Nanotechnology Engineering at the University of Waterloo, with a focus on physics, electronics, and controls. Staying for my Masters in Electrical Engineering, I specialized in device physics, publishing in the area of 2D-material electronics and optoelectronics.
+I grew up in Toronto, Canada, and did my Bachelor's degree in Nanotechnology Engineering at the University of Waterloo, with a focus on engineering physics, electronics, and controls. Staying for my Masters in Electrical Engineering, I specialized in device physics, publishing primarily in the area of 2D-material electronics and optoelectronics.
 
 In September of 2021 I moved to Zürich, Switzerland to pursue my PhD in the Computational Nanoelectronics group at ETH Zurich. I'm currently working on ab-initio simulations of memristors for neural network hardware accelerators, using a coupled Molecular Dynamics + Density Functional Theory + Non-Equilibrium Green's Function approach to partly capture the natural stochasticity of these devices.
 
