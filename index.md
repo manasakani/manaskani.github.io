@@ -1,7 +1,11 @@
 ---
-layout: default
-title: Manasa Kaniselvan
+title: "Habits"
+output:
+  html_document:
+    theme: united
+    highlight: tango
 ---
+
 
 # Manasa Kaniselvan
 
