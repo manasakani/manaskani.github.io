@@ -44,19 +44,19 @@ Transport Simulations. Nanotechnology MASc Seminar delivered at the University o
 
 ## Teaching:
 
-Taught Tutorials for *NE140 - Linear Circuits*, Winter 2021, University of Waterloo
+Winter 2021: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
 
-Held office hours for *NE471 - Nanoelectronics*, Fall 2020, University of Waterloo
+Fall 2020: Held office hours for *NE471 - Nanoelectronics*, University of Waterloo
 
-Taught Tutorials for *NE344 - Electronic Circuits*, Spring 2020, University of Waterloo
+Spring 2020: Taught Tutorials for *NE344 - Electronic Circuits*, University of Waterloo
 
-Taught Tutorials for *NE140 - Linear Circuits*, Winter 2020, University of Waterloo
+Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
 
 
 ## (Selected) Research Funding:
 
-Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
+2021: Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
 
-NSERC USRA (Co-op research funding for eight months)
+2017: NSERC USRA (Co-op research funding for eight months)
 
-National Institute of Materials Science (Japanese) Internship Program Fellowship
+2016: National Institute of Materials Science (Japanese) Internship Program Fellowship
