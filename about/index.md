@@ -2,7 +2,8 @@
 layout: default
 title: About
 ---
-<div class="blurb">
-	<h1>About</h1>
-	<p>About me.</p>
-</div><!-- /.blurb -->
+## About
+<img src="/media/me.png" alt="pic of me"
+style="float:right; width:400px; margin:40px; height: auto">
+
+Add text here
