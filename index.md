@@ -15,4 +15,4 @@ I'm a first-year PhD student at the [Computational Nanoelectronics](https://nano
 
 This website currently just contains my [research interests](/about) and [CV](/cv), but will eventually be extended to include presentations and blog posts. You can also check out my [GitHub page](https://github.com/manasakani), but most of my repositories haven't been made public yet.
 
-In my free time, I enjoy anything which is active and outdoors (climbing, hiking, running, cycling) and meeting up with friends for long chats over coffee.
+Since my work is primarily computational and I can be found sitting for most of the day, in my free time I enjoying anything that is active or outdoors, including climbing, hiking, running, and also meeting up with friends for long chats over coffee.
