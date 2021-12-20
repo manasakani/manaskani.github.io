@@ -53,10 +53,12 @@ Spring 2020: Taught Tutorials for *NE344 - Electronic Circuits*, University of W
 Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
 
 
-## (Selected) Research Funding:
+## Selected Research Funding:
 
 2021: Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
 
 2017: NSERC USRA (Co-op research funding for eight months)
 
 2016: National Institute of Materials Science (Japanese) Internship Program Fellowship
+
+See CV pdf for full list.
