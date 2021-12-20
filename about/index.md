@@ -4,7 +4,6 @@ title: About
 ---
 
 # About
-<img align="right" src="/media/me.png" height="auto" width="300" style="border-radius:50%">
 
 I grew up in Toronto, Canada, and did my Bachelor's degree in Nanotechnology Engineering at the University of Waterloo, with a focus on engineering physics, electronics, and controls. Staying for my Masters in Electrical Engineering, I specialized in device physics, publishing primarily in the area of 2D-material electronics and optoelectronics.
 
