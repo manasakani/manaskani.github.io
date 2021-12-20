@@ -44,13 +44,13 @@ Transport Simulations. Nanotechnology MASc Seminar delivered at the University o
 
 ## Teaching:
 
- <font size="3"> Teaching Assistant - Linear Circuits, Winter 2021, University of Waterloo</font>
+Teaching Assistant - *NE140 - Linear Circuits*, Winter 2021, University of Waterloo
 
- <font size="3"> Teaching Assistant - Nanoelectronics, Fall 2020, University of Waterloo</font>
+Teaching Assistant - *NE471 - Nanoelectronics*, Fall 2020, University of Waterloo
 
- <font size="3"> Teaching Assistant - Electronic Circuits, Spring 2020, University of Waterloo</font>
+Teaching Assistant - *NE344 - Electronic Circuits*, Spring 2020, University of Waterloo
 
- <font size="3"> Teaching Assistant - Linear Circuits, Winter 2020, University of Waterloo</font> 
+Teaching Tutorials for *NE140 - Linear Circuits*, Winter 2020, University of Waterloo
 
 
 ## (Selected) Research Funding:
