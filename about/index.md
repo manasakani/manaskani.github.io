@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cosmo
 title: About
 ---
 # About
