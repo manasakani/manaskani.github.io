@@ -44,16 +44,16 @@ Transport Simulations. Nanotechnology MASc Seminar delivered at the University o
 
 ## Teaching:
 
-Teaching Assistant - Linear Circuits, Winter 2021, University of Waterloo
+ <font size="3"> Teaching Assistant - Linear Circuits, Winter 2021, University of Waterloo</font>
 
-Teaching Assistant - Nanoelectronics, Fall 2020, University of Waterloo
+ <font size="3"> Teaching Assistant - Nanoelectronics, Fall 2020, University of Waterloo</font>
 
-Teaching Assistant - Electronic Circuits, Spring 2020, University of Waterloo
+ <font size="3"> Teaching Assistant - Electronic Circuits, Spring 2020, University of Waterloo</font>
 
-Teaching Assistant - Linear Circuits, Winter 2020, University of Waterloo
+ <font size="3"> Teaching Assistant - Linear Circuits, Winter 2020, University of Waterloo</font> 
 
 
-## Selected Research Funding:
+## (Selected) Research Funding:
 
 Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
 
