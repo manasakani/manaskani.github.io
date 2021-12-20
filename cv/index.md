@@ -12,7 +12,9 @@ title: Manasa Kaniselvan
 ## Education:
 
 PhD (in progress) - ETH Zürich, Zürich, Switzerland
+
 MASc - University of Waterloo, Waterloo, Canada
+
 BASc - University of Waterloo, Waterloo, Canada
 
 ## Publications:
