@@ -1,5 +1,5 @@
 ---
-layout: cosmo
+layout: defaul
 title: Manasa Kaniselvan
 ---
 
