@@ -34,8 +34,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Time Non-Invasive Sensor for Monitoring
 Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
 
-**UW Nano Robotics Group**. Solenoid Actuated Microbot (SAM). 2018 IEEE IEEE International Conference on Robotics
-and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
+**UW Nano Robotics Group**. Solenoid Actuated Microbot (SAM). 2018 IEEE IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
 
 ## Presentations:
 
