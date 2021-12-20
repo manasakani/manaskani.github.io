@@ -2,6 +2,13 @@
 layout: default
 title: About
 ---
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
 # About
 <img align="right" src="/media/me.png" height="auto" width="300" style="border-radius:50%">
 
