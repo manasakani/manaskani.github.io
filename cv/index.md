@@ -36,10 +36,6 @@ Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Tim
 
 **UW Nano Robotics Group**. Solenoid Actuated Microbot (SAM). 2018 IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
 
-## Presentations:
-
-**Manasa Kaniselvan**. Engineering the Performance of 2D Transition Metal Dichalcogenide Nanotransistors through Quantum Transport Simulations. Nanotechnology MASc Seminar delivered at the University of Waterloo, June 2021.
-
 
 ## Teaching:
 
