@@ -7,7 +7,7 @@ output:
 ---
 
 # Manasa Kaniselvan
-<img align="right" src="/media/me.png" height="auto" width="300" style="border-radius:50%">
+<img align="right" src="/media/me.png" height="auto" width="350" style="border-radius:50%">
 
 Hi! Welcome to my website, in which I've tried to gather most of my experience and interests in a single convenient location.
 
