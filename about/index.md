@@ -11,6 +11,4 @@ Staying for my Masters in Electrical Engineering, I then continued in device phy
 
 Recently I moved to Switzerland to pursue my PhD in the Computational Nanoelectronics group at ETH Zürich, where I'm now working on ab-initio modelling systems of memory devices for neural network hardware accelerators. I'm also starting to learn a bit about computational neuroscience in parallel. My long-term research interests are in designing and simulating electronic devices that can mimic the operation of biological neurons, and developing algorithms which can run on these bio-inspired computing primitives.
 
-Since my work is primarily computational and I'm sitting for most of the day, in my free time I enjoying anything that is active or outdoors, including climbing, hiking, running, or just meeting up with friends for long chats over coffee.
-
 The book 'Gödel Escher Bach' by Douglas Hofstadter was my earliest and most significant inspiration. My meandering path of study was heavily influenced by its emphasis on consilience, and my research interests draw heavily from the questions it poses about the emergent nature of intelligence, and how it can be represented in physical systems.
