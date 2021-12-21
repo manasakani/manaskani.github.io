@@ -17,7 +17,7 @@ ORCID: 0000-0002-5331-8878
 
 ## Education:
 
-PhD (in progress) - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
+PhD in progress - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
 
 MASc - _Electrical and Computer Engineering_ - University of Waterloo, Waterloo, Canada
 
