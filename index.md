@@ -14,5 +14,3 @@ Hi! Welcome to my website, in which I've tried to gather most of my experience a
 I'm a first-year PhD student at the [Computational Nanoelectronics](https://nano-tcad.ee.ethz.ch) at ETH Zurich, and my research interests are in the area of designing and simulating nanoelectronic devices for bio-inspired computing hardware. I was previously studying at the University of Waterloo in Canada.
 
 This website currently just contains my [research interests](/about) and [CV](/cv), but will eventually be extended to include presentations and blog posts. You can also check out my [GitHub page](https://github.com/manasakani), but most of my repositories haven't been made public yet.
-
-Since my work is primarily computational and I can be found sitting for most of the day, in my free time I enjoying anything that is active or outdoors, including climbing, hiking, running, and also meeting up with friends for long chats over coffee.
