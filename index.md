@@ -1,6 +1,5 @@
 ---
 title: "Manasa Kaniselvan"
-font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 output:
   html_document:
     theme: cosmo
