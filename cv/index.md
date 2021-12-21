@@ -11,11 +11,11 @@ title: Manasa Kaniselvan
 
 ## Education:
 
-PhD (in progress) - ETH Zürich, Zürich, Switzerland
+PhD (in progress) - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
 
-MASc - University of Waterloo, Waterloo, Canada
+MASc - _Electrical and Computer Engineering_ - University of Waterloo, Waterloo, Canada
 
-BASc - University of Waterloo, Waterloo, Canada
+BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Publications:
 
