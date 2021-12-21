@@ -15,7 +15,7 @@ ORCID: 0000-0002-5331-8878
 ----
 <!-- blank line -->
 
-## Education:
+## Education
 
 PhD in progress - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
 
@@ -27,7 +27,7 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 ----
 <!-- blank line -->
 
-## Publications:
+## Publications
 
 **M. Kaniselvan** and Y. Yoon, “Strain-tuning PtSe<sub>2</sub> for high ON-current lateral tunnel field-effect transistors,” Applied Physics
 Letters, vol. 119, no. 7, p. 073102, Aug. 2021. doi:10.1063%2F5.0053789 [Link to Article](https://aip.scitation.org/doi/abs/10.1063/5.0053789)
@@ -41,7 +41,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 ----
 <!-- blank line -->
 
-## Posters:
+## Posters
 
 Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
 
@@ -51,7 +51,7 @@ Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Tim
 ----
 <!-- blank line -->
 
-## Teaching:
+## Teaching
 
 Winter 2021: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
 
@@ -65,7 +65,7 @@ Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Water
 ----
 <!-- blank line -->
 
-## Funding:
+## Funding
 
 2021: Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
 
