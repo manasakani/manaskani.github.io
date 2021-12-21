@@ -57,7 +57,7 @@ Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Water
 
 2021: Natural Sciences and Engineering Research Council of Canada (NSERC) PGSD (Doctoral-level funding for three years)
 
-2017: Natural Sciences and Engineering Research Council of Canada (NSERC) USRA(Co-op research funding for eight months)
+2017: Natural Sciences and Engineering Research Council of Canada (NSERC) USRA (Co-op research funding for eight months)
 
 2016: National Institute of Materials Science (Japanese) Internship Program Fellowship
 
