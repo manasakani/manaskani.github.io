@@ -11,6 +11,9 @@ title: Manasa Kaniselvan
 
 ORCID: 0000-0002-5331-8878
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Education:
 
@@ -19,6 +22,10 @@ PhD (in progress) - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
 MASc - _Electrical and Computer Engineering_ - University of Waterloo, Waterloo, Canada
 
 BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
+
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Publications:
 
@@ -30,12 +37,19 @@ G. Han, **M. Kaniselvan**, and Y. Yoon, “Photoresponse of MoSe<sub>2</sub> Tra
 M. Naqi+, **M. Kaniselvan+**, S. Choo+, G. Han, S. Kang, J. Kim, Y. Yoon, and S. Kim, “Ultrasensitive Multilayer MoS<sub>2</sub>‐Based Photodetector with Permanently Grounded Gate Effect,” Advanced Electronic Materials, vol. 6, no. 4, p. 1901256, Feb. 2020.
 doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201901256)
 
+<!-- blank line -->
+----
+<!-- blank line -->
+
 ## Posters:
 
 Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
 
 **UW Nano Robotics Group**. Solenoid Actuated Microbot (SAM). 2018 IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Teaching:
 
@@ -47,6 +61,9 @@ Spring 2020: Taught Tutorials for *NE344 - Electronic Circuits*, University of W
 
 Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Funding:
 
