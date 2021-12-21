@@ -9,6 +9,9 @@ title: Manasa Kaniselvan
 
 [LinkedIn profile](https://www.linkedin.com/in/manasa-kaniselvan)
 
+ORCID: 0000-0002-5331-8878
+
+
 ## Education:
 
 PhD (in progress) - _Electrical Engineering_ - ETH Zürich, Zürich, Switzerland
