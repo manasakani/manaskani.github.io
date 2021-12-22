@@ -53,13 +53,13 @@ Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Tim
 
 ## Teaching
 
-Winter 2021: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
+Winter 2021: Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
 
 Fall 2020: Held office hours for *NE471 - Nanoelectronics*, University of Waterloo
 
-Spring 2020: Taught Tutorials for *NE344 - Electronic Circuits*, University of Waterloo
+Spring 2020: Taught Tutorials sessions for *NE344 - Electronic Circuits*, University of Waterloo
 
-Winter 2020: Taught Tutorials for *NE140 - Linear Circuits*, University of Waterloo
+Winter 2020: Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
 
 <!-- blank line -->
 ----
