@@ -5,9 +5,7 @@ title: About
 
 # About
 
-Originally from Toronto, Canada, I did my Bachelor's degree in Nanotechnology Engineering at the University of Waterloo, with a focus on nanoelectronics. Over my degree I explored a few different research areas through Waterloo's internship program, and particularly enjoyed a project in which I wrote a simple code to simulate current flow through semiconductor heterostructures.
-
-Staying for my Masters in Electrical Engineering, I then continued in device physics, publishing some work in the area of 2D-material electronics and optoelectronics simulations. During this time I did coursework in physics and computer science in order to understand both the underlying physics of quantum transport, and the numerical methods which allow them to be efficiently implemented in code.
+Originally from Toronto, Canada, I did my Bachelor's degree in Nanotechnology Engineering at the University of Waterloo, with a focus on nanoelectronics. Over my degree I explored a few different research areas through Waterloo's internship program, and particularly enjoyed a project in which I wrote a simple code to simulate current flow through semiconductor heterostructures. Staying for my Masters, I then continued in device physics, publishing some work in the area of 2D-material electronics and optoelectronics simulations. During this time I did coursework in physics and computer science in order to understand both the underlying physics of quantum transport, and the numerical methods which allow them to be efficiently implemented in code.
 
 Recently I moved to Switzerland to pursue my PhD in the Computational Nanoelectronics group at ETH Zürich, where I'm now working on ab-initio modelling systems of memory devices for neural network hardware accelerators. In parallel, I'm also starting to learn a bit about neuroscience, and exploring existing research on what we know about neural computation. My long-term research interests are in designing and simulating electronic devices that can mimic the operation of biological neurons, and developing algorithms which can harness these devices as computing primitives.
 
