@@ -43,7 +43,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 ----
 <!-- blank line -->
 
-## Posters
+## Posters & Presentations
 
 Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
 
