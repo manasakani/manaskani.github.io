@@ -55,6 +55,8 @@ Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Tim
 
 ## Teaching
 
+Winter 2022: Taught a subset of the exercise sessions for *Semiconductor Devices: Quantum Transport at the Nanoscale*, ETH Zürich
+
 Winter 2021: Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
 
 Fall 2020: Held office hours for *NE471 - Nanoelectronics*, University of Waterloo
