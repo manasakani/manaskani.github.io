@@ -39,7 +39,7 @@ G. Han, **M. Kaniselvan**, and Y. Yoon, “Photoresponse of MoSe<sub>2</sub> Tra
 M. Naqi+, **M. Kaniselvan**+, S. Choo+, G. Han, S. Kang, J. Kim, Y. Yoon, and S. Kim, “Ultrasensitive Multilayer MoS<sub>2</sub>‐Based Photodetector with Permanently Grounded Gate Effect,” Advanced Electronic Materials, vol. 6, no. 4, p. 1901256, Feb. 2020.
 doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201901256)
 
-+ = equally contributed
+"+" = equally contributed
 
 <!-- blank line -->
 ----
