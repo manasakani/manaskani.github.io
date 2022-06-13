@@ -47,6 +47,8 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 ## Posters & Presentations
 
+Marko Mladenovic, **Manasa Kaniselvan**, Mathieu Luisier. June 2022, Ab-Initio-Parametrized Kinetic Monte Carlo Model for Vacancy Diffusion in Amorphous Oxides for Valence Change Memory. First Principles Modelling of Defects in Solids, June 2022, ETH Zürich, Switzerland. [Poster PDF](/media/defects_in_solids_poster.pdf)
+
 Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications. Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
 
 **UW Nano Robotics Group**. Solenoid Actuated Microbot (SAM). 2018 IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
