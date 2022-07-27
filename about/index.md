@@ -9,4 +9,4 @@ Originally from Toronto, Canada, I did my Bachelor's degree in Nanotechnology En
 
 Recently I moved to Switzerland to pursue my PhD in the Computational Nanoelectronics group at ETH Zürich, where I'm working on building multiscale modelling frameworks of memory cells for neural network hardware accelerator- and bio-inspired computing- applications.
 
-The book 'Gödel Escher Bach' by Douglas Hofstadter was my earliest inspiration. My meandering path of study was influenced by its emphasis on consilience, and my research interests draw heavily from the questions it poses about how the emergent nature of intelligence can be acheived in systems of physical devices.
+The book 'Gödel Escher Bach' by Douglas Hofstadter was my earliest inspiration. My meandering path of study was influenced by its emphasis on consilience, and my research interests draw heavily from the questions it poses about how the emergent nature of intelligence can be acheived in physical systems.
