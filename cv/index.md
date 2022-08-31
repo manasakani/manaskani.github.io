@@ -47,7 +47,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 ## Posters & Presentations
 
-**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022
+**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022 **Award for Top 10\% of 700+ Posters**
 
 **Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. CECAM Workshop on “Quantum transport methods and algorithms: from particles to waves approaches”, ETH Zürich, Switzerland.
 July 2022.
