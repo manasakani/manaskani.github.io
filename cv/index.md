@@ -29,6 +29,8 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Publications
 
+M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review at IEEE Electron Device Letters since August 2022.
+
 **M. Kaniselvan**, M. Sritharan, and Y. Yoon, “Mitigating Tunneling Leakage in Ultrascaled HfS<sub>2</sub> pMOS Devices with Uniaxial Strain,” IEEE Electron Device Letters, June. 2022. doi:10.1109/LED.2022.3179228 _**Selected as Editors' Pick**_ [Link to Article](https://ieeexplore.ieee.org/document/9785648) 
 
 **M. Kaniselvan** and Y. Yoon, “Strain-tuning PtSe<sub>2</sub> for high ON-current lateral tunnel field-effect transistors,” Applied Physics
@@ -47,10 +49,11 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 ## Posters & Presentations
 
-**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022. **Commendation for Top 10\% of 700+ Posters**
+**Manasa Kaniselvan**, Mathieu Luisier, Marko Mladenovic. An Atomistic Model for Valence Change Memory. International Conference on Simulation of Semiconductor Processes and Devices, Granada, Spain. September 2022. Contributed Talk in Session 8A: Memories.
 
-**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. CECAM Workshop on “Quantum transport methods and algorithms: from particles to waves approaches”, ETH Zürich, Switzerland.
-July 2022.
+**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022. **Recieved commendation for being in the top 10% of 700+ Posters**
+
+**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. CECAM Workshop on “Quantum transport methods and algorithms: from particles to waves approaches”, ETH Zürich, Switzerland. July 2022.
 
 Marko Mladenovic, **Manasa Kaniselvan**, Mathieu Luisier. Ab-Initio-Parametrized Kinetic Monte Carlo Model for Vacancy Diffusion in Amorphous Oxides for Valence Change Memory. First Principles Modelling of Defects in Solids, ETH Zürich, Switzerland. June 2022. [Poster PDF](/media/defects_in_solids_poster.pdf)
 
