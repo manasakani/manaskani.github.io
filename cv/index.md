@@ -29,7 +29,7 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Publications
 
-M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review at IEEE Electron Device Letters since August 2022.
+M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review at IEEE Electron Device Letters since Aug. 2022.
 
 **M. Kaniselvan**, M. Sritharan, and Y. Yoon, “Mitigating Tunneling Leakage in Ultrascaled HfS<sub>2</sub> pMOS Devices with Uniaxial Strain,” IEEE Electron Device Letters, June. 2022. doi:10.1109/LED.2022.3179228 _**Selected as Editors' Pick**_ [Link to Article](https://ieeexplore.ieee.org/document/9785648) 
 
