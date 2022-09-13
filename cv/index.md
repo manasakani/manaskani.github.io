@@ -29,16 +29,16 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Publications
 
-M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review at IEEE Electron Device Letters since Aug. 2022.
+M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review at _IEEE Electron Device Letters_ since Aug. 2022.
 
-**M. Kaniselvan**, M. Sritharan, and Y. Yoon, “Mitigating Tunneling Leakage in Ultrascaled HfS<sub>2</sub> pMOS Devices with Uniaxial Strain,” IEEE Electron Device Letters, June. 2022. doi:10.1109/LED.2022.3179228 _**Selected as Editors' Pick**_ [Link to Article](https://ieeexplore.ieee.org/document/9785648) 
+**M. Kaniselvan**, M. Sritharan, and Y. Yoon, “Mitigating Tunneling Leakage in Ultrascaled HfS<sub>2</sub> pMOS Devices with Uniaxial Strain,” _IEEE Electron Device Letters_, June. 2022. doi:10.1109/LED.2022.3179228 _**Selected as Editors' Pick**_ [Link to Article](https://ieeexplore.ieee.org/document/9785648) 
 
-**M. Kaniselvan** and Y. Yoon, “Strain-tuning PtSe<sub>2</sub> for high ON-current lateral tunnel field-effect transistors,” Applied Physics
-Letters, vol. 119, no. 7, p. 073102, Aug. 2021. doi:10.1063%2F5.0053789 [Link to Article](https://aip.scitation.org/doi/abs/10.1063/5.0053789)
+**M. Kaniselvan** and Y. Yoon, “Strain-tuning PtSe<sub>2</sub> for high ON-current lateral tunnel field-effect transistors,” _Applied Physics
+Letters_, vol. 119, no. 7, p. 073102, Aug. 2021. doi:10.1063%2F5.0053789 [Link to Article](https://aip.scitation.org/doi/abs/10.1063/5.0053789)
 
-G. Han, **M. Kaniselvan**, and Y. Yoon, “Photoresponse of MoSe<sub>2</sub> Transistors: A Fully Numerical Quantum Transport Simulation Study,” ACS Applied Electronic Materials, vol. 2, no. 11, pp. 3765–3772, Nov. 2020. doi:10.1021/acsaelm.0c00795 [Link to Article](https://pubs.acs.org/doi/10.1021/acsaelm.0c00795)
+G. Han, **M. Kaniselvan**, and Y. Yoon, “Photoresponse of MoSe<sub>2</sub> Transistors: A Fully Numerical Quantum Transport Simulation Study,” _ACS Applied Electronic Materials_, vol. 2, no. 11, pp. 3765–3772, Nov. 2020. doi:10.1021/acsaelm.0c00795 [Link to Article](https://pubs.acs.org/doi/10.1021/acsaelm.0c00795)
 
-M. Naqi+, **M. Kaniselvan**+, S. Choo+, G. Han, S. Kang, J. Kim, Y. Yoon, and S. Kim, “Ultrasensitive Multilayer MoS<sub>2</sub>‐Based Photodetector with Permanently Grounded Gate Effect,” Advanced Electronic Materials, vol. 6, no. 4, p. 1901256, Feb. 2020.
+M. Naqi+, **M. Kaniselvan**+, S. Choo+, G. Han, S. Kang, J. Kim, Y. Yoon, and S. Kim, “Ultrasensitive Multilayer MoS<sub>2</sub>‐Based Photodetector with Permanently Grounded Gate Effect,” _Advanced Electronic Materials_, vol. 6, no. 4, p. 1901256, Feb. 2020.
 doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201901256)
 
 "+" = equally contributed
