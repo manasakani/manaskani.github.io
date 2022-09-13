@@ -51,9 +51,9 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 **Manasa Kaniselvan**, Mathieu Luisier, Marko Mladenovic. An Atomistic Model for Valence Change Memory. International Conference on Simulation of Semiconductor Processes and Devices, Granada, Spain. September 2022. Contributed Talk in Session 8A: Memories.
 
-**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022. **Recieved commendation for being in the top 10% of 700+ Posters**
+**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. Psi-k Conference, Lausanne, Switzerland. August 2022. **Recieved commendation for being in the top 10% of 700+ Posters** [Poster PDF](/media/PsiK.pdf)
 
-**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. CECAM Workshop on “Quantum transport methods and algorithms: from particles to waves approaches”, ETH Zürich, Switzerland. July 2022.
+**Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. Modelling transport in valence change memory cells. CECAM Workshop on “Quantum transport methods and algorithms: from particles to waves approaches”, ETH Zürich, Switzerland. July 2022. [Poster PDF](/media/PsiK.pdf)
 
 Marko Mladenovic, **Manasa Kaniselvan**, Mathieu Luisier. Ab-Initio-Parametrized Kinetic Monte Carlo Model for Vacancy Diffusion in Amorphous Oxides for Valence Change Memory. First Principles Modelling of Defects in Solids, ETH Zürich, Switzerland. June 2022. [Poster PDF](/media/defects_in_solids_poster.pdf)
 
