@@ -47,7 +47,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 ----
 <!-- blank line -->
 
-## Posters & Presentations
+## Conference Presentations & Posters
 
 **Manasa Kaniselvan**, Mathieu Luisier, Marko Mladenovic. "An Atomistic Model for Valence Change Memory". International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Granada, Spain. September 2022. Contributed Talk in Session 8A: Memories. [PDF of Slides](/media/SISPAD_2022_slides_8A.pdf)
 
