@@ -27,9 +27,13 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 ----
 <!-- blank line -->
 
-## Publications
+## Publications ("+" = equally contributed)
+
+H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", submitted in October 2022.
 
 M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review since Aug. 2022.
+
+**M. Kaniselvan**, M.Luisier, and M.Mladenovic, "An Atomistic Modelling Framework for Valence Change Memory Cells", _Solid State Electronics: LETTERS from the International Conference on Simulation of Semiconductor Processes and Devices 2022_ (accepted), October 2022. doi to arXiv version: 10.48550/arXiv.2207.01095 (https://arxiv.org/abs/2207.01095)
 
 **M. Kaniselvan**, M. Sritharan, and Y. Yoon, “Mitigating Tunneling Leakage in Ultrascaled HfS<sub>2</sub> pMOS Devices with Uniaxial Strain,” _IEEE Electron Device Letters_, June. 2022. doi:10.1109/LED.2022.3179228 _**Selected as Editors' Pick**_ [Link to Article](https://ieeexplore.ieee.org/document/9785648) 
 
@@ -41,7 +45,6 @@ G. Han, **M. Kaniselvan**, and Y. Yoon, “Photoresponse of MoSe<sub>2</sub> Tra
 M. Naqi+, **M. Kaniselvan**+, S. Choo+, G. Han, S. Kang, J. Kim, Y. Yoon, and S. Kim, “Ultrasensitive Multilayer MoS<sub>2</sub>‐Based Photodetector with Permanently Grounded Gate Effect,” _Advanced Electronic Materials_, vol. 6, no. 4, p. 1901256, Feb. 2020.
 doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/aelm.201901256)
 
-"+" = equally contributed
 
 <!-- blank line -->
 ----
