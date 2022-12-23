@@ -27,7 +27,7 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 ----
 <!-- blank line -->
 
-## Publications ("+" = equally contributed)
+## Journal Articles ("+" = equally contributed)
 
 **M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", submitted in December 2022.
 
