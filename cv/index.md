@@ -5,7 +5,7 @@ title: Manasa Kaniselvan
 
 # Curriculum Vitae
 
-[CV as of September 2022 (PDF)](/media/cv.pdf)
+[CV as of December 2022 (PDF)](/media/cv.pdf)
 
 [LinkedIn profile](https://www.linkedin.com/in/manasa-kaniselvan)
 
@@ -17,7 +17,7 @@ ORCID: 0000-0002-5331-8878
 
 ## Education
 
-PhD in progress - _Electrical Engineering and Information Technology_ - ETH Zürich, Zürich, Switzerland
+PhD Candidate - _Electrical Engineering and Information Technology_ - ETH Zürich, Zürich, Switzerland
 
 MASc - _Electrical and Computer Engineering_ - University of Waterloo, Waterloo, Canada
 
@@ -29,7 +29,9 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Publications ("+" = equally contributed)
 
-H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", submitted in October 2022.
+**M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", submitted in December 2022.
+
+H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", under revision since December 2022.
 
 M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review since Aug. 2022.
 
