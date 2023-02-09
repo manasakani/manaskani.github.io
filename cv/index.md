@@ -29,11 +29,11 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Journal Articles ("+" = equally contributed)
 
-**M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", submitted in December 2022.[Link to Preprint](https://arxiv.org/pdf/2212.14090.pdf)
+M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under revision.
 
-H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", under revision since December 2022.
+**M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", under revision at _ACS Nano_ since February 2022.[Link to Preprint](https://arxiv.org/pdf/2212.14090.pdf)
 
-M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under review since Aug. 2022.
+H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", accepted for publication at _Advanced Materials_.
 
 **M. Kaniselvan**, M.Luisier, and M.Mladenovic, "An Atomistic Modelling Framework for Valence Change Memory Cells", _Solid State Electronics: LETTERS from the International Conference on Simulation of Semiconductor Processes and Devices 2022_, October 2022. doi:10.1063%2F5.0053789 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0038110122002775)
 
