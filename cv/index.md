@@ -33,7 +33,7 @@ M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative St
 
 **M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", under revision at _ACS Nano_ since February 2022. [Link to Preprint](https://arxiv.org/pdf/2212.14090.pdf)
 
-H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Active-matrix image sensor array based on wafer-scale nanoporous bilayer MoS<sub>2</sub>", _Advanced Materials_, February 2023. doi:10.1002/adma.202210715 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/adma.202210715)
+H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Wafer-scale Nanoporous 2D Active Pixel Image Sensor Matrix with Highly Uniformity, High Sensitivity, and Rapid Switching", _Advanced Materials_, February 2023. doi:10.1002/adma.202210715 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/adma.202210715)
 
 **M. Kaniselvan**, M.Luisier, and M.Mladenovic, "An Atomistic Modelling Framework for Valence Change Memory Cells", _Solid State Electronics: LETTERS from the International Conference on Simulation of Semiconductor Processes and Devices 2022_, October 2022. doi:10.1063%2F5.0053789 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0038110122002775)
 
