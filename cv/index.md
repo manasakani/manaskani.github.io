@@ -29,8 +29,6 @@ BASc - _Nanotechnology Engineering_ - University of Waterloo, Waterloo, Canada
 
 ## Journal Articles ("+" = equally contributed)
 
-M. Sritharan, R.K.A Bennett, **M. Kaniselvan**, and Y. Yoon, “A Comparative Study on 2D Materials with Native High-κ Oxides for Ultrascaled Transistors,” under revision.
-
 **M. Kaniselvan**, M. Luisier, and M. Mladenovic, "An Atomistic Model of Field-Induced Resistive Switching in Valence Change Memory", accepted for publication at _ACS Nano_. [Link to Preprint](https://arxiv.org/pdf/2212.14090.pdf)
 
 H. Park+, A. Sen+, **M. Kaniselvan**, A.AlMutairi, A. Bal, L. Lee, Y.Yoon, and S. Kim, "Wafer-scale Nanoporous 2D Active Pixel Image Sensor Matrix with Highly Uniformity, High Sensitivity, and Rapid Switching", _Advanced Materials_, February 2023. doi:10.1002/adma.202210715 [Link to Article](https://onlinelibrary.wiley.com/doi/10.1002/adma.202210715)
