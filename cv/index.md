@@ -56,8 +56,6 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 **Manasa Kaniselvan**, Marko Mladenovic, Patrik Gjini, Mathieu Luisier. "Modelling transport in valence change memory cells". Psi-k Conference, Lausanne, Switzerland. August 2022. **Recieved commendation for being in the top 10% of 700+ Posters** [Poster PDF](/media/PsiK.pdf)
 
-Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. "A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications". Waterloo Engineering Design Symposium 2019. Waterloo, ON, Canada [Poster PDF](/media/FYDP2019.pdf)
-
 **UW Nano Robotics Group**. "Solenoid Actuated Microbot (SAM)". 2018 IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia [Poster PDF](/media/ICRA2018.pdf)
 
 <!-- blank line -->
@@ -66,15 +64,15 @@ Mary Chen+, **Manasa Kaniselvan+**, Corin Seeleman+, Danielle Smith+. "A Real-Ti
 
 ## Teaching
 
-Winter 2022: Taught a subset of the exercise sessions for *Semiconductor Devices: Quantum Transport at the Nanoscale*, ETH Zürich
+Supervision of 3 Masters-level semester projects and 1 Masters thesis at ETH Zurich.
 
-Winter 2021: Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
+Taught a subset of the exercise sessions for *Semiconductor Devices: Quantum Transport at the Nanoscale*, ETH Zürich
 
-Fall 2020: Held office hours for *NE471 - Nanoelectronics*, University of Waterloo
+Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
 
-Spring 2020: Taught Tutorials sessions for *NE344 - Electronic Circuits*, University of Waterloo
+Held office hours for *NE471 - Nanoelectronics*, University of Waterloo
 
-Winter 2020: Taught Tutorials sessions for *NE140 - Linear Circuits*, University of Waterloo
+Taught Tutorials sessions for *NE344 - Electronic Circuits*, University of Waterloo
 
 <!-- blank line -->
 ----
