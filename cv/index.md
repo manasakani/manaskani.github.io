@@ -64,7 +64,7 @@ doi: 10.1002/aelm.201901256 [Link to Article](https://onlinelibrary.wiley.com/do
 
 ## Teaching
 
-Supervision of 3 Masters-level semester projects and 1 Masters thesis at ETH Zurich.
+Supervision of 2 Masters-level semester projects, 1 Bachelor thesis, and 1 Masters thesis at ETH Zurich.
 
 Taught a subset of the exercise sessions for *Semiconductor Devices: Quantum Transport at the Nanoscale*, ETH Zürich
 
