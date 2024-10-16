@@ -5,7 +5,7 @@ title: Manasa Kaniselvan
 
 # Curriculum Vitae
 
-[CV as of April 2024 (PDF)](/media/cv.pdf)
+[CV as of September 2024 (PDF)](/media/cv.pdf)
 
 [LinkedIn profile](https://www.linkedin.com/in/manasa-kaniselvan)
 
